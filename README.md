@@ -1,1 +1,1 @@
-# Java course '22
+# Java Course '22
